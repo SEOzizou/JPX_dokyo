@@ -16,3 +16,4 @@ https://blog.naver.com/PostView.nhn?blogId=parkjongpir&logNo=222234341982&parent
 -- trades 데이터 전체 추세
 -- secondary_stock_price > 요일 지표에 추가?
 -- stock_list > trades 세분화??
+- 이거는 서동진이 쓴 내용입니다.
