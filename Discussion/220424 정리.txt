@@ -1,0 +1,18 @@
+https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm/notebook
+https://dacon.io/competitions/official/235857/codeshare
+http://www.aitimes.com/news/articleView.html?idxno=139470
+https://layhope.tistory.com/380
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=2586900&logNo=220849419026
+https://www.nanumtrading.com/fx-%EB%B0%B0%EC%9A%B0%EA%B8%B0/%EC%B0%A8%ED%8A%B8-%EB%B3%B4%EC%A1%B0%EC%A7%80%ED%91%9C-%EC%9D%B4%ED%95%B4/01-%EB%B3%B4%EC%A1%B0%EC%A7%80%ED%91%9C%EB%9E%80/
+https://blog.naver.com/PostView.nhn?blogId=parkjongpir&logNo=222234341982&parentCategoryNo=&categoryNo=35&viewDate=&isShowPopularPosts=true&from=search
+
+-- 데이콘 1등 코드 피처
+환율(못쓸듯), 요일, 주차, 거래대금(volumne * close), 월별주기성(sin, cos), OBV(거래량지표), stochastic(현재수준), MFI(과열도), 이동평균, lag
+-- 기사 아이디어
+상승 하락 예측 먼저??, 같이 오르내리는 주식 파악
+-- Volatility
+-- 전반적인 상승/하락 추세
+-- SecurityCode에 붙을 수 있는 feature와 Date에 붙을 수 있는 features 구분해서 생각해보기
+-- trades 데이터 전체 추세
+-- secondary_stock_price > 요일 지표에 추가?
+-- stock_list > trades 세분화??
